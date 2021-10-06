@@ -1,6 +1,6 @@
 # Youtube Dl bot 😉
 ## Prerequisite
-    ffmpeg
+    @ReqiestingHuB
   
     
 ## install dependencies
@@ -13,7 +13,7 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Yuvraj](https://telegram.dog/yuvi_4502) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Aakash](https://telegram.dog/lucifermoarning568)
+* [Yuvraj](https://telegram.dog/yuvi_4502) for his [Pdisk-Uploder-Bot](https://github.com/FilmyFather/Pdisk-Upload-Bot)
+* [Aakash](https://telegram.dog/lucifermoarningstar765)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FilmyFather/Youtube-Downloader-Bot)
